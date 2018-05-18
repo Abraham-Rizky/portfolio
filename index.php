@@ -10,7 +10,7 @@
 
     <main>
         <!--There will be a main content over here-->
-        <?php echo="Just a test";
+        <?php echo="Just a test";?>
     </main>
     <footer>
         <p>&copy; 2018 &vert; Rizky Abraham &vert; rizkyabraham88@gmail.com &vert; (208) 309-0202
