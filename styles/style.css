@@ -1,3 +1,15 @@
-body, footer{
+/* * is a wildcard referring to all elements. */
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
     font-family: 'Cormorant', serif;
+}
+
+footer {
+    text-align: center;
+    font-size: 1em;
 }
